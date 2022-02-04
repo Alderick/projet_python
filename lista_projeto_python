@@ -1,0 +1,141 @@
+https://acervolima.com/projetos-python-do-iniciante-ao-avancado/
+
+Projetos para iniciantes
+  Jogo de adivinhação de números em Python
+  Jogo de adivinhação de palavras em Python
+  Jogo Hangman em Python
+  Jogo de números 21 em Python
+  Jogo Mastermind usando Python
+  2048 Jogo em Python
+  Jogo Flames em Python
+  Jogo de treinamento Pokémon
+  Jogo Rock Paper Scissor em Python
+  Captura de tela usando pyscreenshot em Python
+  Notificador de área de trabalho em Python
+  Receba notificações de clima ao vivo na área de trabalho usando Python
+  Como usar o pynput para fazer um Keylogger?
+  Automatizando coisas chatas usando Python
+  Automatizar mensagens do Instagram usando Python
+  Automatizando a postagem de feliz aniversário no Facebook
+  Envio automático de e-mail de aniversário com Python
+  Teste de software automatizado com Python
+  Automatize a Pesquisa Google
+  Automatize conexões do LinkedIn usando Python
+  Negociação automatizada usando Python
+  Automatize a conversão de Python2 para Python3
+Projetos Tkinter
+  Crie o primeiro aplicativo GUI usando Python-Tkinter
+  Calculadora GUI simples usando Tkinter
+  Calculadora de GUI de juros compostos usando Tkinter
+  Calculadora de empréstimo usando Tkinter
+  Calculadora de Gui de Percentil Baseado em Classificação usando Tkinter
+  Conversor de unidade GUI padrão usando Tkinter em Python
+  Criar tabela usando o Tkinter
+  Calendário GUI usando Tkinter
+  Explorador de arquivos em Python usando Tkinter
+  Aplicativo ToDo GUI usando Tkinter
+  GUI de conversão de peso usando Tkinter
+  Calculadora de idade usando Tkinter
+  Crie uma GUI Marksheet usando Tkinter
+  Crie um relógio digital usando o Tkinter
+  Crie um cronômetro de contagem regressiva usando Python-Tkinter
+  Aplicativo Tkinter para alternar entre diferentes quadros de página
+  Jogo de cores usando Tkinter em Python
+  Jogo FLAMES simples usando Tkinter
+  Formulário de registro simples usando Tkinter
+  Aplicativo visualizador de imagens em Python usando Tkinter
+  Como criar uma GUI de representação de dados COVID19?
+  Crie GUI para baixar vídeos do Youtube usando Python
+  GUI para desligar, reiniciar e fazer logout do PC usando Python
+  Crie uma GUI para extrair a letra da música usando Python
+  Aplicativo para obter taxa de USD / INR ao vivo usando Python
+  Construir um aplicativo para rotação de tela usando Python
+  Construir um aplicativo para pesquisar aplicativos instalados usando Python
+  Detecção de texto usando Python
+  GUI do corretor ortográfico usando Tkinter
+  Faça Notepad usando Tkinter
+  Detector de sentimento GUI usando Tkinter
+Projetos de tartarugas
+  Desenhe um quadrado e um retângulo em tartaruga - Python
+  Desenhe qualquer polígono em Turtle - Python
+  Desenhar formas preenchidas com cores em tartaruga - Python
+  Árvore Y Fractal em Python usando Turtle
+  Desenhe um espirógrafo usando tartaruga em Python
+  Desenhe polígono espiralado usando tartaruga em Python
+  Crie um relógio digital usando Python-Turtle
+  Desenhe um Tic Tac Toe Board usando Python-Turtle
+  Desenhe tabuleiro de xadrez usando tartaruga em Python
+  Desenhe um símbolo olímpico em Python usando tartaruga
+  Desenhe o arco-íris usando Turtle Graphics em Python
+  Como fazer bandeira indiana usando tartaruga - Python
+  Desenhe objetos em movimento usando Turtle em Python
+  Crie uma animação simples usando Turtle em Python
+  Crie um jogo simples para dois jogadores usando o Turtle em Python
+  Flipping Tiles (jogo de memória) usando Python3
+  Crie um jogo de pong usando Python - Turtle
+  Projetos OpenCV
+  Extraia frames usando OpenCV
+  Exibindo as coordenadas dos pontos clicados na imagem usando Python-OpenCV
+  Detecção de pontos brancos e pretos
+  Paleta de cores OpenCV BGR com trackbars
+  Desenhe uma forma retangular e extraia objetos
+  Desenhar com o mouse em imagens usando Python-OpenCV
+  Detecção e extração de texto usando OpenCV e OCR
+  Capa invisível usando OpenCV
+  Subtração de fundo - OpenCV
+  Pipeline de agrupamento facial não supervisionado
+  Detecção de pedestres usando OpenCV-Python
+  Salvar vídeo operado de uma webcam
+  Detecção de rosto usando Python e OpenCV com webcam
+  Detecção de armas usando Python-OpenCV
+  Detecção de várias cores em tempo real usando Python-OpenCV
+  Detectando objetos de cor semelhante em Python usando OpenCV
+  Abrindo várias janelas coloridas
+  Reproduza um vídeo no modo reverso
+  Correspondência de modelos usando OpenCV em Python
+  Desenho de uma imagem usando OpenCV - Python
+  Detecção de veículos em um quadro de vídeo usando Python - OpenCV
+  Contar o número de Faces usando Python - OpenCV
+  Desenho de webcam ao vivo usando OpenCV
+  Detectar e reconhecer a placa do carro a partir de um vídeo em tempo real
+  Rastreie objetos com Camshift usando OpenCV
+  Substitua a tela verde usando OpenCV- Python
+Projetos Python Django
+  Como criar um aplicativo no Django?
+  Aplicativo de clima usando Django
+  Django Cadastre-se e faça login com email de confirmação
+  ToDo webapp usando Django
+  Configuração de envio de e-mail no projeto Django
+  Projeto Django para criar um Sistema de Comentários
+  Projeto de sistema de votação usando Django Framework
+  Python Text to Speech e vice-versa
+  Fale o significado da palavra usando Python
+  Converter texto de arquivo PDF em fala de áudio usando Python
+  Reconhecimento de fala em Python usando Google Speech API
+  Converter texto em fala em Python
+  Python Text To Speech usando o módulo pyttsx
+  Converta fala em texto e texto em fala
+  Assistente de voz pessoal em Python
+  Construir um assistente virtual usando Python
+  Crie um assistente simples usando Wolfram Alpha API
+  Assistente de voz usando python
+  Pesquisa por voz na Wikipédia usando Python
+  Tradutor de linguagem usando API do Google em Python
+  Mais projetos em Python
+  Tic Tac Toe GUI em Python usando PyGame
+  Jogo de 8 bits usando pygame
+  Visualizador de classificação de bolhas usando PyGame
+  Crie um gravador de voz usando Python
+  Crie um gravador de tela usando Python
+  Previsão do índice de qualidade do ar usando Python
+  Pesquisa de ID de chamador usando Python
+  Converta emoji em texto em Python
+  Análise de sentimento do Twitter usando Python
+  Tweet usando Python
+  Faça um Twitter Bot em Python
+  Extração de Tweets usando Tweepy
+  Verificador de disponibilidade de produtos Amazon usando Python
+  Obtenha seus e-mails do Gmail de um usuário específico
+  Enviar mensagem ao usuário do Telegram usando Python
+  Bot de aniversário Whatsapp
+  Corona HelpBot
